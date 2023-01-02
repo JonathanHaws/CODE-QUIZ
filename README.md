@@ -9,6 +9,4 @@ Learned a lot about local storage and how to work with it. Also dom manipulation
 ### Credits 
 Made by Jonathan Haws for 2022 Univeristy Of Utah Coding Bootcamp!
 
-![title](https://user-images.githubusercontent.com/108207472/210219474-8a9007f1-c4a3-45ae-9f43-ecd350e03b5c.PNG)
-![quiz](https://user-images.githubusercontent.com/108207472/210219500-f2d82d19-7129-43b8-9be9-265bfc377611.PNG)
-![leaderboard](https://user-images.githubusercontent.com/108207472/210219558-c0e9cec9-5acd-4153-84c6-b55fa0a74c2c.PNG)
+![preview](https://user-images.githubusercontent.com/108207472/210220136-de031aac-e032-4095-ba09-29a8b9f7e082.png)
